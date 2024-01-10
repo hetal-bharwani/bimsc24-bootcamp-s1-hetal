@@ -1,1 +1,1 @@
-# bimsc24-bootcamp-s1-hetal
+# bimsc24-bootcamp-s2-hetal

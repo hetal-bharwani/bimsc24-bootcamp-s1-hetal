@@ -1,0 +1,27 @@
+div {
+
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    
+    }
+    
+    #navbar {
+    
+        color: red;
+        font-size: 20px;
+    
+    
+    }
+    
+    #sidebar{
+    
+        color: blue;
+        font-size: 16px;
+    
+    }
+    
+    #main{
+    
+        color: green;
+        font-size: 12px;
+    
+    }
